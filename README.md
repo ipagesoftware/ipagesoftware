@@ -29,8 +29,7 @@ Desenvolvimento de API para diversas finalidades e propósitos, abaixo algumas A
 - 🌐 **Geolocalização:** Registre os dados de geolocalização dos seus clientes.
 
 <a href="https://rapidapi.com/diogenes/api/ipage_cep"><img src="assets/rapid-api.png" width="49%" alt="Rapid API"/></a>
-
-## <a href="https://www.ipage.com.br/ws/exemplos/php/cep/"><img src="assets/api-cep.png" width="49%" alt="Rapid API"/></a>
+<a href="https://www.ipage.com.br/ws/exemplos/php/cep/"><img src="assets/api-cep.png" width="49%" alt="Rapid API"/></a>
 
 ## Software
 
