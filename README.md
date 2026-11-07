@@ -42,6 +42,8 @@ Desenvovimento de software para plataforma plataforma Windows.
 ✅ Gestão Estoque
 ✅ Dentre Outros
 
+---
+
 <img src="assets/sci.png" width="100%" alt="Sistema Comercial Integrado"/>
 
 ---
@@ -56,6 +58,8 @@ Desenvovimento de aplicações em nuvem.
 ✅ Gestão Associados
 ✅ Gestão Financeira
 ✅ Dentre Outros
+
+---
 
 <a href="https://soberanoequipamentos.com.br/app/"><img src="assets/soberano.png" width="100%" alt="Soberano Equipamentos"/></a>
 
