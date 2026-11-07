@@ -5,7 +5,8 @@
 <br/>
 
 [![Inscreva-se no YouTube](https://img.shields.io/badge/YouTube-Inscreva--se-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ipagesoftware?sub_confirmation=1)
+[![Twitter](https://img.shields.io/badge/Site-ipagesoftware-2F86FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ipage_software/)
 [![Instagram](https://img.shields.io/badge/Instagram-@ipagesoftware-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ipage_software/)
-[![Site](https://img.shields.io/badge/Site-ipage.com.br-2F86FF?style=for-the-badge&logo=wordpress&logoColor=white)](https://ipage.com.br/)
+[![Site](https://img.shields.io/badge/Site-ipage.com.br-2F86FF?style=for-the-badge&logo=chrome&logoColor=white)](https://ipage.com.br/)
 
 </div>
