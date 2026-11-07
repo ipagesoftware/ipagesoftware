@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Ipage Softwarea: Unidade de Tecnologia" width="100%"/>
+<img src="assets/banner-github.png" alt="Ipage Softwarea: Unidade de Tecnologia" width="100%"/>
 
 <br/>
 
