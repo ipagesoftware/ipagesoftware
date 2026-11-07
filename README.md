@@ -66,13 +66,9 @@ Desenvovimento de aplicações em nuvem.
 <table>
   <tr>
     <td width="33%" align="center"><a href="https://youtu.be/7KgWc4E4iyg"><img src="https://i9.ytimg.com/vi_webp/7KgWc4E4iyg/mqdefault.webp?v=6ad6969e&sqp=COT6vdcG&rs=AOn4CLApZOW54CSisvy6t6y6gkZ9SqVV6A" alt="Aula 01 - Flat File - Instalação do Visual Basic 6 Portable"/></a><br/><sub><b>Aula 01 - Flat File - Instalação do Visual Basic 6 Portable</b></sub></td>
-  </tr>
-  <tr>
     <td width="33%" align="center"><a href="https://youtu.be/Jt8mIcC-Qdw"><img src="https://i9.ytimg.com/vi_webp/Jt8mIcC-Qdw/mqdefault.webp?v=6ad69705&sqp=CJD9vdcG&rs=AOn4CLDES1-5lF9e_FIeM7VDk90tX1Vgyw" alt="Aula 02 - Flat File - Conhecendo o Ambiente de Programação"/></a><br/><sub><b>Aula 02 - Flat File - Conhecendo o Ambiente de Programação</b></sub></td>
-  </tr>
-  <tr>
     <td width="33%" align="center"><a href="https://youtu.be/t2niNkDxW9c"><img src="https://i9.ytimg.com/vi_webp/t2niNkDxW9c/mq1.webp?sqp=CJD9vdcG-oaymwEmCMACELQB8quKqQMa8AEB-AH2CIAC0AWKAgwIABABGFcgXyhlMA8=&rs=AOn4CLDMKiYDBc1sI41YaaMi2ap6pFJmnw" alt="Aula 03 - Flat File - Estrutura das Pasta do Projeto Cadastro de Produtos."/></a><br/><sub><b>Aula 03 - Flat File - Estrutura das Pasta do Projeto Cadastro de Produtos.</b></sub></td>
-  </tr> 
+  </tr>
 </table>
 
 <div align="center">
