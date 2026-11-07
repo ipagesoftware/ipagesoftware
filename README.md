@@ -44,7 +44,7 @@ Desenvovimento de software para plataforma plataforma Windows.
 
 ---
 
-<img src="assets/sci-prinicpal.png" width="49%" alt="Sistema Comercial Integrado"/>
+<img src="assets/sci-principal.png" width="49%" alt="Sistema Comercial Integrado"/>
 <img src="assets/sci.png" width="49%" alt="Sistema Comercial Integrado"/>
 
 ---
