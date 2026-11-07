@@ -61,7 +61,8 @@ Desenvovimento de aplicações em nuvem.
 
 ---
 
-<a href="https://soberanoequipamentos.com.br/app/"><img src="assets/soberano.png" width="100%" alt="Soberano Equipamentos"/></a>
+<a href="https://soberanoequipamentos.com.br/app/"><img src="assets/soberano.png" width="49%" alt="Soberano Equipamentos"/></a>
+<a href="https://soberanoequipamentos.com.br/www/"><img src="assets/soberano-mobile.png" width="49%" alt="Soberano Equipamentos Mobile"/></a>
 
 ---
 
