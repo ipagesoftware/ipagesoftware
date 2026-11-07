@@ -29,7 +29,7 @@ Desenvolvimento de API para diversas finalidades e propósitos, abaixo algumas A
 - 🌐 **Geolocalização:** Registre os dados de geolocalização dos seus clientes.
 
 <a href="https://rapidapi.com/diogenes/api/ipage_cep"><img src="assets/rapid-api.png" width="49%" alt="Rapid API"/></a>
-<a href="https://www.ipage.com.br/ws/exemplos/php/cep/"><img src="assets/api-cep.png" width="49%" alt="Rapid API"/></a>
+<a href="https://www.ipage.com.br/ws/exemplos/php/cep/"><img src="assets/api-cep.png" width="49%" alt="API CEP"/></a>
 
 ## Software
 
@@ -41,6 +41,8 @@ Desenvovimento de software para plataforma plataforma Windows.
 ✅ Gestão Fornecedor Panificação
 ✅ Gestão Estoque
 ✅ Dentre Outros
+
+<img src="assets/sci.png" width="100%" alt="Sistema Comercial Integrado"/>
 
 ---
 
@@ -54,3 +56,8 @@ Desenvovimento de aplicações em nuvem.
 ✅ Gestão Associados
 ✅ Gestão Financeira
 ✅ Dentre Outros
+
+<a href="https://soberanoequipamentos.com.br/app/"><img src="assets/soberano.png" width="100%" alt="Soberano Equipamentos"/></a>
+
+---
+
