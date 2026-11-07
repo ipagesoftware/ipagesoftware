@@ -44,7 +44,8 @@ Desenvovimento de software para plataforma plataforma Windows.
 
 ---
 
-<img src="assets/sci.png" width="100%" alt="Sistema Comercial Integrado"/>
+<img src="assets/sci-prinicpal.png" width="49%" alt="Sistema Comercial Integrado"/>
+<img src="assets/sci.png" width="49%" alt="Sistema Comercial Integrado"/>
 
 ---
 
@@ -89,5 +90,6 @@ Desenvovimento de aplicações em nuvem.
 
 ---
 
-
-
+<div align="center">
+<sub>Feito com 💛 pela <b>Ipage Software & Diógenes Dias</b>. Se algum vídeo te ajudou, não esqueça de deixar o seu "joinha" 👍🏻 e inscreva-se no canal!</sub>
+</div>
