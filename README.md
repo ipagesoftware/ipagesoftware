@@ -35,12 +35,12 @@ Desenvolvimento de API para diversas finalidades e propósitos, abaixo algumas A
 
 Desenvovimento de software para plataforma plataforma Windows.
 
-✅ Gestão Representações
-✅ Gestão Depósito de Bebidas
-✅ Gestão Financeira
-✅ Gestão Fornecedor Panificação
-✅ Gestão Estoque
-✅ Dentre Outros
+- ✅ Gestão Representações
+- ✅ Gestão Depósito de Bebidas
+- ✅ Gestão Financeira
+- ✅ Gestão Fornecedor Panificação
+- ✅ Gestão Estoque
+- ✅ Dentre Outros
 
 ---
 
@@ -52,12 +52,12 @@ Desenvovimento de software para plataforma plataforma Windows.
 
 Desenvovimento de aplicações em nuvem.
 
-✅ Gestão Representações
-✅ Gestão Oficina Técnica
-✅ Gestão Sindicatos
-✅ Gestão Associados
-✅ Gestão Financeira
-✅ Dentre Outros
+- ✅ Gestão Representações
+- ✅ Gestão Oficina Técnica
+- ✅ Gestão Sindicatos
+- ✅ Gestão Associados
+- ✅ Gestão Financeira
+- ✅ Dentre Outros
 
 ---
 
