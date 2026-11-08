@@ -71,14 +71,14 @@ Desenvovimento de aplicações em nuvem.
 
 <table>
   <tr>
-    <td width="33%" align="center"><a href="https://youtu.be/7KgWc4E4iyg"><img src="https://i9.ytimg.com/vi_webp/7KgWc4E4iyg/mqdefault.webp?v=6ad6969e&sqp=COT6vdcG&rs=AOn4CLApZOW54CSisvy6t6y6gkZ9SqVV6A" alt="Aula 01 - Flat File - Instalação do Visual Basic 6 Portable"/></a><br/><sub><b>Aula 01 - Flat File - Instalação do Visual Basic 6 Portable</b></sub></td>
-    <td width="33%" align="center"><a href="https://youtu.be/Jt8mIcC-Qdw"><img src="https://i9.ytimg.com/vi_webp/Jt8mIcC-Qdw/mqdefault.webp?v=6ad69705&sqp=CJD9vdcG&rs=AOn4CLDES1-5lF9e_FIeM7VDk90tX1Vgyw" alt="Aula 02 - Flat File - Conhecendo o Ambiente de Programação"/></a><br/><sub><b>Aula 02 - Flat File - Conhecendo o Ambiente de Programação</b></sub></td>
-    <td width="33%" align="center"><a href="https://youtu.be/t2niNkDxW9c"><img src="https://i9.ytimg.com/vi_webp/t2niNkDxW9c/mq1.webp?sqp=CJD9vdcG-oaymwEmCMACELQB8quKqQMa8AEB-AH2CIAC0AWKAgwIABABGFcgXyhlMA8=&rs=AOn4CLDMKiYDBc1sI41YaaMi2ap6pFJmnw" alt="Aula 03 - Flat File - Estrutura das Pasta do Projeto Cadastro de Produtos."/></a><br/><sub><b>Aula 03 - Flat File - Estrutura das Pasta do Projeto Cadastro de Produtos.</b></sub></td>
+    <td width="33%" align="center"><a href="https://youtu.be/7KgWc4E4iyg"><img src="https://img.youtube.com/vi/7KgWc4E4iyg/mqdefault.jpg" alt="Aula 01 - Flat File - Instalação do Visual Basic 6 Portable"/></a><br/><sub><b>Aula 01 - Flat File - Instalação do Visual Basic 6 Portable</b></sub></td>
+    <td width="33%" align="center"><a href="https://youtu.be/Jt8mIcC-Qdw"><img src="https://img.youtube.com/vi/Jt8mIcC-Qdw/mqdefault.jpg" alt="Aula 02 - Flat File - Conhecendo o Ambiente de Programação"/></a><br/><sub><b>Aula 02 - Flat File - Conhecendo o Ambiente de Programação</b></sub></td>
+    <td width="33%" align="center"><a href="https://youtu.be/t2niNkDxW9c"><img src="https://img.youtube.com/vi/t2niNkDxW9c/mqdefault.jpg" alt="Aula 03 - Flat File - Estrutura das Pasta do Projeto Cadastro de Produtos."/></a><br/><sub><b>Aula 03 - Flat File - Estrutura das Pasta do Projeto Cadastro de Produtos.</b></sub></td>
   </tr>
   <tr>
-    <td width="33%" align="center"><a href="https://youtu.be/x-bo8Y0biKI"><img src="https://i9.ytimg.com/vi_webp/x-bo8Y0biKI/mqdefault.webp?v=6ad7825b&sqp=CLz_vdcG&rs=AOn4CLDRosVr0L7ix6Df5loXqx2OLp4p0Q" alt="Aula 04 - Flat File - Apresentação do Visual Basic 6"/></a><br/><sub><b>Aula 04 - Flat File - Apresentação do Visual Basic 6</b></sub></td>
-    <td width="33%" align="center"><a href="https://youtu.be/R-rTwHxzp_Q"><img src="https://i9.ytimg.com/vi_webp/R-rTwHxzp_Q/mqdefault.webp?v=6a1faf22&sqp=CLz_vdcG&rs=AOn4CLBuTuG-_0aMmDBwNZwMLQAyacw3CA" alt="Sistema Locação Equipamentos - Contas à Pagar"/></a><br/><sub><b>Sistema Locação Equipamentos - Contas à Pagar</b></sub></td>
-    <td width="33%" align="center"><a href="https://youtu.be/l9CKpRaEOFg"><img src="https://i9.ytimg.com/vi_webp/l9CKpRaEOFg/mq1.webp?sqp=CLz_vdcG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDkgSih_MA8=&rs=AOn4CLAJ3V7HmdNP3h7pKv90D_nIs_SipA" alt="Gestão Associados - Página Principal"/></a><br/><sub><b>Gestão Associados - Página Principal</b></sub></td>
+    <td width="33%" align="center"><a href="https://youtu.be/x-bo8Y0biKI"><img src="https://img.youtube.com/vi/x-bo8Y0biKI/mqdefault.jpg" alt="Aula 04 - Flat File - Apresentação do Visual Basic 6"/></a><br/><sub><b>Aula 04 - Flat File - Apresentação do Visual Basic 6</b></sub></td>
+    <td width="33%" align="center"><a href="https://youtu.be/R-rTwHxzp_Q"><img src="https://img.youtube.com/vi/R-rTwHxzp_Q/mqdefault.jpg" alt="Sistema Locação Equipamentos - Contas à Pagar"/></a><br/><sub><b>Sistema Locação Equipamentos - Contas à Pagar</b></sub></td>
+    <td width="33%" align="center"><a href="https://youtu.be/l9CKpRaEOFg"><img src="https://img.youtube.com/vi/l9CKpRaEOFg/mqdefault.jpg" alt="Gestão Associados - Página Principal"/></a><br/><sub><b>Gestão Associados - Página Principal</b></sub></td>
   </tr>
 </table>
 
