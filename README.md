@@ -8,6 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Site-ipagesoftware-2F86FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ipage_software/)
 [![Instagram](https://img.shields.io/badge/Instagram-@ipagesoftware-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ipage_software/)
 [![Site](https://img.shields.io/badge/Site-ipage.com.br-f65a1d?style=for-the-badge&logo=chrome&logoColor=white)](https://www.ipage.com.br/site/)
+[![Site](https://img.shields.io/badge/Doar-paypal-001589?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=DZE3TRMQJZ3GC#)
 
 </div>
 
